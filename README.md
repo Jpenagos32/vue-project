@@ -1,3 +1,14 @@
+# Notas
+
+## Estados locales
+Para el uso de estados locales se usa la funcion `ref()`
+
+## Eventos
+Para el uso de eventos en botones se debe usar `@click` `@keyup` etc. depende del evento que queramos usar
+
+## Estados globales
+para ello usamos [Pinia](https://pinia.vuejs.org/introduction.html) 
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
