@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup>
 import Wheather from './Wheather.vue';
-import { defineProps, ref, watch } from 'vue';
+import {  ref, watch } from 'vue';
 
 // Definir propiedades recibidas desde componenete padre
 const props = defineProps(['mensaje'])

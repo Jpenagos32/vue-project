@@ -21,6 +21,9 @@ const registrarStore = useRegistrarStore()
             <li>
                 <RouterLink to="/registrar">Registrar</RouterLink>
             </li>
+            <li>
+                <RouterLink to="/calcular">Calcular</RouterLink>
+            </li>
         </ul>
         <!-- enrutado -->
     </div>

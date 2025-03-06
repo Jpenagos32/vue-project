@@ -9,6 +9,9 @@ Para el uso de eventos en botones se debe usar `@click` `@keyup` etc. depende de
 ## Estados globales
 para ello usamos [Pinia](https://pinia.vuejs.org/introduction.html) 
 
+## Propiedades computadas
+
+Es una funcionde vue que permite realizar un calculo con variables reactivas (Calcular.vue)
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
